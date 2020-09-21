@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\bin\Debug\Alumno.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\bin\Debug\Alumno.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\obj\Debug\Alumno.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\obj\Debug\Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\obj\Debug\Alumno.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio16\Alumno\obj\Debug\Alumno.pdb
