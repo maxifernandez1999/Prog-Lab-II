@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\bin\Debug\Ejercicios.ArraysColecciones.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\bin\Debug\Ejercicios.ArraysColecciones.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\bin\Debug\Ejercicios.ArraysColecciones.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\obj\Debug\Ejercicios.ArraysColecciones.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\obj\Debug\Ejercicios.ArraysColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\obj\Debug\Ejercicios.ArraysColecciones.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicios.ArraysColecciones\obj\Debug\Ejercicios.ArraysColecciones.pdb

@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\bin\Debug\Ejercicio.28.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\bin\Debug\Ejercicio.28.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\bin\Debug\Ejercicio.28.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio.28.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio._28.Form1.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio._28.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio.28.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio.28.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio.28.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.28\Ejercicio.28\obj\Debug\Ejercicio.28.pdb

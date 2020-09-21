@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\bin\Debug\Ejercicio.31.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\bin\Debug\Ejercicio.31.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\bin\Debug\Ejercicio.31.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\obj\Debug\Ejercicio.31.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\obj\Debug\Ejercicio.31.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\obj\Debug\Ejercicio.31.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\obj\Debug\Ejercicio.31.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.31\Ejercicio.31\obj\Debug\Ejercicio.31.pdb

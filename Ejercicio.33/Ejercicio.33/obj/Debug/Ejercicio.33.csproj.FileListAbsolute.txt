@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\bin\Debug\Ejercicio.33.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\bin\Debug\Ejercicio.33.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\bin\Debug\Ejercicio.33.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\obj\Debug\Ejercicio.33.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\obj\Debug\Ejercicio.33.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\obj\Debug\Ejercicio.33.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.33\Ejercicio.33\obj\Debug\Ejercicio.33.pdb
