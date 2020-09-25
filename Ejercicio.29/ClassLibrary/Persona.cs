@@ -36,7 +36,9 @@ namespace ClassLibrary
 
         public string MostrarDatos()
         {
-
+            StringBuilder str = new StringBuilder();
+            str.AppendFormat($"Nombre: {this.Nombre}\nDni: {this.Dni}\n");
+            return str.ToString();
         }
 
         public Persona(long dni, string nombre) :this(nombre)

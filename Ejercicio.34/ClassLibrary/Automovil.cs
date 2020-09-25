@@ -13,9 +13,10 @@ namespace ClassLibrary
         
         public int cantidadPasajeros;
 
-        public Automovil(int cantidadPasajeros) : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)
+        public Automovil(short cantidadRuedas, short cantidadPuertas, Colores color, short cantidadMarchas,int cantidadPasajeros) 
+            : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)// llama al constructor del Clase Base
         {
-            
+            //al constructor se le agrega los parametros del constructor base
             this.cantidadPasajeros = cantidadPasajeros;
         }
     }

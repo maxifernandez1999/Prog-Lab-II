@@ -21,10 +21,15 @@ namespace Ejercicio._29
             Jugador lionelMessi = new Jugador(18035241, "Messi", 75, 20);
             Jugador luisSuarez = new Jugador(18035, "Suarez", 51, 30);
             Jugador xavi = new Jugador(18035261, "Xavi", 58, 38);
+            DirectorTecnico simeone = new DirectorTecnico(42052, "Simeone", new DateTime(1999, 5, 4));
+            DirectorTecnico guardeola = new DirectorTecnico(42456452, "Simeone", new DateTime(1999, 5, 4));//va al MostrarDatos() de Persona
 
             bool retorno1 = Barca + lionelMessi;
             bool retorno2 = Barca + luisSuarez;
             bool retorno3 = Barca + xavi;
+
+            Console.WriteLine(simeone.MostrarDatos()); 
+            Console.WriteLine(" ");
             
             if (retorno1 == true && retorno2 == true && retorno3 == true)
             {
@@ -41,6 +46,14 @@ namespace Ejercicio._29
             else
             {
                 Console.WriteLine("NO son iguales");
+            }
+            if (simeone == guardeola)
+            {
+                Console.WriteLine("Son iguales");
+            }
+            else
+            {
+                Console.WriteLine("NO SON IGUALES");
             }
             Console.ReadKey();
         }

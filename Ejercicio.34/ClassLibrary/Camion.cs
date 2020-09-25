@@ -14,7 +14,7 @@ namespace ClassLibrary
     {
         public int pesoCarga;
        
-        public Camion(int pesoCarga) : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)
+        public Camion(short cantidadRuedas, short cantidadPuertas, Colores color, short cantidadMarchas,int pesoCarga) : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)
         {
             this.pesoCarga = pesoCarga;
         }

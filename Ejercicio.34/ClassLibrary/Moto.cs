@@ -12,7 +12,7 @@ namespace ClassLibrary
         
         public short cilandrada;
 
-        public Moto(short cilandrada) : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)
+        public Moto(short cantidadRuedas, short cantidadPuertas, Colores color, short cantidadMarchas,short cilandrada) : base(cantidadRuedas, cantidadPuertas, color, cantidadMarchas)
         {
             
             this.cilandrada = cilandrada;

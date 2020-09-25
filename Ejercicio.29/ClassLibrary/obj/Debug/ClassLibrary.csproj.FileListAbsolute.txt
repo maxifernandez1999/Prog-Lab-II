@@ -4,3 +4,9 @@ C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.29\ClassLibr
 C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.29\ClassLibrary\bin\Debug\ClassLibrary.pdb

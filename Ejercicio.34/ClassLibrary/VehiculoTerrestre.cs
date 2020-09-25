@@ -11,11 +11,12 @@ namespace ClassLibrary
 {
     public class VehiculoTerrestre
     {
-        protected enum Colores { Rojo, Blanco, Azul, Gris, Negro }
-        protected short cantidadRuedas;
-        protected short cantidadPuertas;
-        protected Colores color;
-        protected short cantidadMarchas;
+        public enum Colores { Rojo, Blanco, Azul, Gris, Negro }
+        public short cantidadRuedas;
+        public short cantidadPuertas;
+        public Colores color;
+        public short cantidadMarchas;
+        
 
         public VehiculoTerrestre(short cantidadRuedas, short cantidadPuertas, Colores color, short cantidadMarchas)
         {

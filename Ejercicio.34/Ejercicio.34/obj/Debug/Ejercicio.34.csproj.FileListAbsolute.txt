@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\bin\Debug\Ejercicio.34.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\bin\Debug\Ejercicio.34.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\bin\Debug\Ejercicio.34.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\obj\Debug\Ejercicio.34.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\obj\Debug\Ejercicio.34.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\obj\Debug\Ejercicio.34.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\obj\Debug\Ejercicio.34.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios\Ejercicio.34\Ejercicio.34\obj\Debug\Ejercicio.34.pdb

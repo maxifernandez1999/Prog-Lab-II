@@ -6,24 +6,20 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    public class Jugador
+    public class Jugador : Persona
     {
-        private int dni;
-        private string nombre;
         private int partidosJugados;
         private int totalGoles;
 
-        private Jugador()
-        {
-            this.dni = 0;
-            this.partidosJugados = 0;
-            this.totalGoles = 0;
-        }
+        //private Jugador()
+        //{
+        //    this.partidosJugados = 0;
+        //    this.totalGoles = 0;
+        //}
 
-        public Jugador(int dni, string nombre) : this()
+        public Jugador(long dni, string nombre) : base(dni,nombre)
         {
-            this.dni = dni;
-            this.nombre = nombre;
+            
         }
         public Jugador(int dni, string nombre, int totalGoles, int totalPartidos) : this(dni,nombre)
         {
@@ -53,33 +49,33 @@ namespace ClassLibrary
                 return this.totalGoles;
             }
         }
-        public int Dni
-        {
-            get
-            {
-                return this.dni;
-            }
-            set
-            {
-                this.dni = value;
-            }
-        }
-        public string Nombre
-        {
-            get
-            {
-                return this.nombre;
-            }
-            set
-            {
-                this.nombre = value;
-            }
-        }
+        //public int Dni
+        //{
+        //    get
+        //    {
+        //        return ;
+        //    }
+        //    set
+        //    {
+        //        this.dni = value;
+        //    }
+        //}
+        //public string Nombre
+        //{
+        //    get
+        //    {
+        //        return this.nombre;
+        //    }
+        //    set
+        //    {
+        //        this.nombre = value;
+        //    }
+        //}
 
-        public string MostrarDatos()
+        new public string MostrarDatos()
         {
             StringBuilder str = new StringBuilder();
-            str = str.AppendFormat($"Dni : {this.dni}\nNombre : {this.nombre}\nPartidos Jugados: {this.partidosJugados}\nTotal de goles: {this.totalGoles}\nPromedio de Goles: {PromedioGoles:F}\n");
+            str = str.AppendFormat($"Dni : {base.Dni}\nNombre : {base.Nombre}\nPartidos Jugados: {this.partidosJugados}\nTotal de goles: {this.totalGoles}\nPromedio de Goles: {PromedioGoles:F}\n");
             return str.ToString();
         }
         
@@ -90,7 +86,7 @@ namespace ClassLibrary
         }
         public static bool operator ==(Jugador j1, Jugador j2)
         {
-            return j1.dni == j2.dni;
+            return j1.Dni == j2.Dni;
         }
 
     }
