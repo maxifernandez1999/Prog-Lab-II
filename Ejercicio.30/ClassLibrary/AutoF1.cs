@@ -6,60 +6,43 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    public class AutoF1
+    public class AutoF1 : VehiculoDeCarrera
     {
-        private short cantidadCombustible;
-        private bool enCompetencia;
-        private string escuderia;
-        private short numero;
-        private short vueltasRestantes;
 
-        public AutoF1(short numero, string escuderia)
+        protected short caballosDeFuerza;
+        //public AutoF1(short numero, string escuderia, short caballosDeFuerza) : this(cantidadCombustible,enCompetencia, vueltasRestantes,numero,escuderia)
+        //{
+        //    this.caballosDeFuerza = caballosDeFuerza;
+        //}
+        public AutoF1(short numero, string escuderia, short caballosDeFuerza)
+            : base(numero, escuderia)
         {
-            this.cantidadCombustible = 0;
-            this.enCompetencia = false;
-            this.vueltasRestantes = 0;
-            this.numero = numero;
-            this.escuderia = escuderia;
+            this.CaballosDeFuerza = caballosDeFuerza;
         }
+
+        public short CaballosDeFuerza
+        {
+            get
+            {
+                return this.caballosDeFuerza;
+            }
+            set
+            {
+                this.caballosDeFuerza = value;
+            }
+               
+        }
+
         public string MostrarDatos()
         {
             StringBuilder str = new StringBuilder();
-            str = str.AppendFormat($"Cantidad de combustible: {this.cantidadCombustible}\nEnCompetencia: {this.enCompetencia}\nEscuderia : {this.escuderia}\nNumero: {this.numero}\nVueltas restantes: {this.vueltasRestantes}\n");
+            str = str.AppendFormat($"Cantidad de combustible: {this.cantidadCombustible}\nEnCompetencia: {this.enCompetencia}\nEscuderia : {this.escuderia}\nNumero: {this.numero}\nVueltas restantes: {this.vueltasRestantes}\nCaballos de fuerza: {this.CaballosDeFuerza}\n");
             return str.ToString();
-        }
-
-        public short getCantidadCombustible()
-        {
-            return this.cantidadCombustible;
-        }
-        public bool setCantidadCombustible(short cantidadCombustible)
-        {
-            this.cantidadCombustible = cantidadCombustible;
-            return true;
-        }
-        public short getVueltasRestantes()
-        {
-            return this.vueltasRestantes;
-        }
-        public bool setVueltasRestantes(short vueltasRestantes)
-        {
-            this.vueltasRestantes = vueltasRestantes;
-            return true;
-        }
-        public bool getEnCompetencia()
-        {
-            return this.enCompetencia;
-        }
-        public bool setEnCompetencia(bool enCompetencia)
-        {
-            this.enCompetencia = enCompetencia;
-            return true;
         }
 
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
-            return a1.escuderia == a2.escuderia && a1.numero == a2.numero;
+            return (a1.Escuderia == a2.Escuderia) && (a1.Numero == a2.Numero) && (a1.CaballosDeFuerza == a2.CaballosDeFuerza);
         }
         public static bool operator !=(AutoF1 a1, AutoF1 a2)
         {

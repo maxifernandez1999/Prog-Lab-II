@@ -10,18 +10,27 @@ namespace Ejercicio._30
     {
         static void Main(string[] args)
         {
-            Competencia competencia = new Competencia(20, 2);
-            AutoF1 ferrari = new AutoF1(10, "xd");
-            AutoF1 mercedez = new AutoF1(11,"rx");
-            AutoF1 audi = new AutoF1(12,"rtx");
+            Competencia competenciaF1 = new Competencia(20, 8, Competencia.TipoCompetencia.F1);
+            Competencia competenciaMotocross = new Competencia(30, 8, Competencia.TipoCompetencia.Motocross);
+            AutoF1 ferrari = new AutoF1(10, "hola mundo", 10);
+            AutoF1 mercedez = new AutoF1(11, "xd", 11);
+            AutoF1 audi = new AutoF1(12,"rtx", 12);
 
-            bool retorno1 = competencia + ferrari;
-            bool retorno2 = competencia + mercedez;
-            bool retorno3 = competencia + audi;
+            MotoCross honda = new MotoCross(13, "hola mundo", 13);
+            MotoCross cerro = new MotoCross(14, "xd", 14);
+            MotoCross cientodiez = new MotoCross(15, "rtx", 15);
 
-            if (retorno1 == true && retorno2 == true && retorno3 == true)
+            bool retorno1 = competenciaF1 == ferrari;
+            bool retorno2 = competenciaF1 == mercedez;
+            bool retorno3 = competenciaF1 == audi;
+
+            bool retorno4 = competenciaMotocross == honda;
+            bool retorno5 = competenciaMotocross == cerro;
+            bool retorno6 = competenciaMotocross == cientodiez;
+
+            if (retorno1 == true && retorno2 == true && retorno3 == true && retorno4 == true && retorno5 == true && retorno6)
             {
-                Console.WriteLine("Se agrego al competidor:\n{0}\n{1}\n{2}", ferrari.MostrarDatos(), mercedez.MostrarDatos(), audi.MostrarDatos());
+                Console.WriteLine("Se agregaron los siguientes competidores:\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n", ferrari.MostrarDatos(), mercedez.MostrarDatos(), audi.MostrarDatos(),honda.MostrarDatos(),cerro.MostrarDatos(),cientodiez.MostrarDatos());
             }
             else
             {
