@@ -23,10 +23,10 @@ namespace Test
             Console.WriteLine(c.Mostrar());
             c.Llamadas.Add(l2);
             Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l3);
-            Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l4);
-            Console.WriteLine(c.Mostrar());
+            //c.Llamadas.Add(l3);
+            //Console.WriteLine(c.Mostrar());
+            //c.Llamadas.Add(l4);
+            //Console.WriteLine(c.Mostrar());
             c.OrdenarLlamadas();
             Console.WriteLine(c.Mostrar());
             Console.ReadKey();
