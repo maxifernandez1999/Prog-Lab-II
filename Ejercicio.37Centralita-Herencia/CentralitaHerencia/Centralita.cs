@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //Centralita:
-//l.CalcularGanancia será privado.Este método recibe un Enumerado TipoLlamada y retornará
-//el valor de lo recaudado, según el criterio elegido(ganancias por las llamadas del tipo Local,
-//Provincial o de Todas según corresponda).
-//m.El método Mostrar expondrá la razón social, la ganancia total, ganancia por llamados locales
-//y provinciales y el detalle de las llamadas realizadas.
+//j.Se reemplaza el método Mostrar por la sobrescritura del método ToString.
+//k.AgregarLlamada es privado.Recibe una Llamada y la agrega a la lista de llamadas.
+
+
 
 
 namespace CentralitaHerencia
@@ -18,7 +17,7 @@ namespace CentralitaHerencia
         List<Llamada> listaDeLlamadas;
         private string razonSocial;
 
-        private string Mostrar()
+        public string Mostrar()
         {
             StringBuilder str = new StringBuilder();
             str.AppendFormat($"razon social: {this.razonSocial}\nGanancia total: {this.GananciaPorTotal}\nGanancia por llamados locales: {this.GananciaPorLocal}\nGanancia por llamados provinciales: {this.GananciaPorProvincial}\n");
@@ -28,6 +27,10 @@ namespace CentralitaHerencia
             }
             return str.ToString();
         }
+
+        #region CONSTRUCTORES
+
+        
         public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
@@ -37,6 +40,12 @@ namespace CentralitaHerencia
         {
             this.razonSocial = nombreEmpresa;
         }
+        #endregion
+
+
+        #region PROPIEDADES
+
+        
         public float GananciaPorLocal
         {
             get
@@ -64,14 +73,16 @@ namespace CentralitaHerencia
             {
                 return this.listaDeLlamadas;
             }
-            //set
-            //{
-            //    this.listaDeLlamadas = value;
-            //}
+           
         }
+        #endregion
+
+        #region METODOS
+
+        
         private void AgregarLlamada(Llamada nuevaLlamada)
         {
-
+            Llamadas.Add(nuevaLlamada);
         }
 
         private float CalcularGanancia(Llamada.TipoLlamada tipo)
@@ -121,21 +132,42 @@ namespace CentralitaHerencia
         }
         public override string ToString()
         {
-            return base.ToString();
+            return Mostrar();
         }
+        #endregion
 
+        #region SOBRECARGA OPERADORES
+
+        
+        //l.El operador == retornará true si la Centralita contiene la Llamada en su lista genérica.Utilizar
+        //sobrecarga == de Llamada.
         public static bool operator ==(Centralita c, Llamada llamada)
         {
-
+            foreach (Llamada l in c.listaDeLlamadas)
+            {
+                if (l == llamada)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
         public static bool operator !=(Centralita c, Llamada llamada)
         {
-
+            return !(c == llamada);
         }
+        //m.El operador + invocará al método AgregarLlamada sólo si la llamada no está registrada en la
+        //Centralita (utilizar la sobrecarga del operador == de Centralita).
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
-
+            if (c == nuevaLlamada)
+            {
+                c.AgregarLlamada(nuevaLlamada);
+                return c; //?
+            }
+            return c;
         }
+        #endregion
 
 
 

@@ -3,13 +3,31 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Provincial:
+//g.El método Mostrar será protegido.Reutilizará el código escrito en la clase base y agregará
+//franjaHoraria y CostoLlamada, utilizando un StringBuilder.
+//h.Equals retornará true sólo si el objeto que recibe es de tipo Provincial.
+//i.ToString reutilizará el código del método Mostrar.
 namespace CentralitaHerencia
 {
     public class Provincial : Llamada
     {
         public enum Franja { Franja_1 , Franja_2, Franja_3}
         protected Franja franjaHoraria;
+
+        
+        #region CONSTRUCTORES
+        public Provincial(string origen, Franja miFranja, float duracion, string destino) ////
+            : base(duracion, origen, destino)
+        {
+            this.franjaHoraria = miFranja;
+        }
+        public Provincial(Franja miFranja, Llamada llamada)
+            : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
+        {
+
+        }
+        #endregion
 
         public override float CostoLlamada
         {
@@ -19,14 +37,21 @@ namespace CentralitaHerencia
             }
             
         }
+
+        #region METODOS
+
         public override bool Equals(object obj)
         {
-            return base.Equals(obj);
+            if (obj.GetType() == typeof(Provincial))
+            {
+                return true;
+            }
+            return false;
         }
 
         public override string ToString()
         {
-            return base.ToString();
+            return Mostrar();
 
         }
         private float CalcularCosto()
@@ -50,25 +75,16 @@ namespace CentralitaHerencia
             return costo;
         }
 
-        public override string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.AppendFormat($"Duracion {base.Duracion}\nNumero Destino: {base.NroDestino}\nNumero Origen: {base.NroOrigen}\nTipo de Llamada: {base.tipoLlamada}\nCosto: {this.CostoLlamada}Franja horaria: {franjaHoraria}\n");
+            str.AppendFormat($"{base.Mostrar()}\nCosto: {this.CostoLlamada}Franja horaria: {franjaHoraria}\n");
             return str.ToString();
         }
+        #endregion
 
-        public Provincial(Franja miFranja, Llamada llamada)
-            :base(llamada.Duracion, llamada.NroOrigen, llamada.NroDestino)
-        {
-            this.franjaHoraria = miFranja;
-            
-        }
-        public Provincial(string origen, Franja miFranja, float duracion, string destino)
-            : this(miFranja, new Llamada(duracion, origen, destino))
-        {
-            
-        }
-            
+
+
 
     }
 }
