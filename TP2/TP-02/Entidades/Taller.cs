@@ -9,7 +9,7 @@ namespace Entidades
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
-    public sealed class Taller
+    public class Taller
     {
         private List<Vehiculo> vehiculos;
         private int espacioDisponible;
@@ -39,7 +39,7 @@ namespace Entidades
         /// <returns></returns>
         public override string ToString()
         {
-            string mostrar = Listar(this, ETipo.Todos);
+            string mostrar = Listar(this,ETipo.Todos);
             return mostrar;
         }
         #endregion
@@ -57,7 +57,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", taller.vehiculos.Count, taller.espacioDisponible);
             sb.AppendLine("");
             foreach (Vehiculo v in taller.vehiculos)
             {
@@ -90,15 +90,32 @@ namespace Entidades
         /// <param name="vehiculo">Objeto a agregar</param>
         /// <returns></returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
-        {
-            foreach (Vehiculo v in taller.vehiculos)
+        { 
+            if (taller.vehiculos.Count == 0)
             {
-                if (v == vehiculo)
-                    return taller;
+                taller.vehiculos.Add(vehiculo);
+                return taller;
+            }
+            else
+            {
+                foreach (Vehiculo v in taller.vehiculos)
+                {
+                    if ((v != vehiculo) && taller.vehiculos.Count < taller.espacioDisponible) //esto me da siempre true;
+                    {
+                        taller.vehiculos.Add(vehiculo);
+                        return taller;
+
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
             }
 
-            taller.vehiculos.Add(vehiculo);
             return taller;
+            
+
         }
         /// <summary>
         /// Quitará un elemento de la lista
@@ -108,15 +125,8 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
-            foreach (Vehiculo v in taller.vehiculos)
-            {
-                if (v == vehiculo)
-                {
-                    taller.vehiculos.Remove(vehiculo);
-                    break;
-                }
-            }
-
+            taller.vehiculos.Remove(vehiculo);
+          
             return taller;
         }
         #endregion
