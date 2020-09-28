@@ -64,13 +64,22 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.SVU:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Suv)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Ciclomotor:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Ciclomotor)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Sedan:
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Sedan)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
@@ -100,15 +109,14 @@ namespace Entidades
             {
                 foreach (Vehiculo v in taller.vehiculos)
                 {
-                    if ((v != vehiculo) && taller.vehiculos.Count < taller.espacioDisponible) //esto me da siempre true;
+                    if (vehiculo == taller.vehiculos.ElementAt(taller.vehiculos.Count-1))
+                    {
+                        break;
+                    }
+                    else if ((v != vehiculo) && taller.vehiculos.Count < taller.espacioDisponible)
                     {
                         taller.vehiculos.Add(vehiculo);
                         return taller;
-
-                    }
-                    else
-                    {
-                        break;
                     }
                 }
             }
