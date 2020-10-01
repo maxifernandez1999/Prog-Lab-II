@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\bin\Debug\Modelo Parcial Vehiculo - Lavadero.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\bin\Debug\Modelo Parcial Vehiculo - Lavadero.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\bin\Debug\Modelo Parcial Vehiculo - Lavadero.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\obj\Debug\Modelo Parcial Vehiculo - Lavadero.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\obj\Debug\Modelo Parcial Vehiculo - Lavadero.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\obj\Debug\Modelo Parcial Vehiculo - Lavadero.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\obj\Debug\Modelo Parcial Vehiculo - Lavadero.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\Modelo Parcial Vehiculo - Lavadero\obj\Debug\Modelo Parcial Vehiculo - Lavadero.pdb

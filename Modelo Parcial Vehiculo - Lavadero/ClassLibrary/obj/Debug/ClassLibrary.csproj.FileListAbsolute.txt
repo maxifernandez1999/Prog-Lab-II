@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Modelo Parcial Vehiculo - Lavadero\ClassLibrary\obj\Debug\ClassLibrary.pdb
