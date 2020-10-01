@@ -21,10 +21,18 @@ namespace Entidades
 
 
         #region "Constructores"
+        /// <summary>
+        /// Constructor que inicializa la lista generica
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+
+        /// <summary>
+        /// Constructor que inicializa el espacio disponible
+        /// </summary>
+        /// <param name="espacioDisponible">Espacio disponible en el taller</param>
         public Taller(int espacioDisponible)
             :this()
         {
@@ -53,7 +61,7 @@ namespace Entidades
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public string Listar(Taller taller, ETipo tipo)
+        public static string Listar(Taller taller, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
 
@@ -99,7 +107,8 @@ namespace Entidades
         /// <param name="vehiculo">Objeto a agregar</param>
         /// <returns></returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
-        { 
+        {
+            bool retorno = false;
             if (taller.vehiculos.Count == 0)
             {
                 taller.vehiculos.Add(vehiculo);
@@ -109,11 +118,15 @@ namespace Entidades
             {
                 foreach (Vehiculo v in taller.vehiculos)
                 {
-                    if (vehiculo == taller.vehiculos.ElementAt(taller.vehiculos.Count-1))
+                    if (vehiculo == v)
                     {
+                        retorno = true;
                         break;
-                    }
-                    else if ((v != vehiculo) && taller.vehiculos.Count < taller.espacioDisponible)
+                    } 
+                }
+                foreach (Vehiculo v in taller.vehiculos)
+                {
+                    if ((retorno == false) && taller.vehiculos.Count < taller.espacioDisponible)
                     {
                         taller.vehiculos.Add(vehiculo);
                         return taller;

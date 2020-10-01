@@ -8,6 +8,12 @@ namespace Entidades
 {
     public class Suv : Vehiculo
     {
+        /// <summary>
+        /// Constructor que inicializa los datos del SUV
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param
         public Suv(EMarca marca, string chasis, ConsoleColor color)
             :base(chasis, marca, color)
         {
@@ -23,6 +29,10 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Muestra los datos del Vehiculo mas especificos del SUV
+        /// </summary>
+        /// <returns></returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

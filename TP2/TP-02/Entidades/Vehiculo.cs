@@ -23,6 +23,13 @@ namespace Entidades
         {
             Chico, Mediano, Grande
         }
+
+        /// <summary>
+        /// Constructor que inicializa los atributos de la clase
+        /// </summary>
+        /// <param name="chasis">chasis</param>
+        /// <param name="marca">marca</param>
+        /// <param name="color">color</param>
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.chasis = chasis;
@@ -47,7 +54,10 @@ namespace Entidades
             return mostrar;
         }
         
-
+        /// <summary>
+        /// Castea un dato de tipo Vehiculo a string
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();

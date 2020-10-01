@@ -24,6 +24,13 @@ namespace Entidades
         {
             
         }
+
+        /// <summary>
+        /// Constructor que inicializa los datos del Sedan
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param
         public Sedan(EMarca marca, string chasis, ConsoleColor color, ETipo tipo)
             : this(marca,chasis,color)
         {
@@ -40,6 +47,11 @@ namespace Entidades
                 return ETamanio.Mediano;
             }
         }
+
+        /// <summary>
+        /// Muestra los datos del Vehiculo mas especificos del Sedan
+        /// </summary>
+        /// <returns></returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
