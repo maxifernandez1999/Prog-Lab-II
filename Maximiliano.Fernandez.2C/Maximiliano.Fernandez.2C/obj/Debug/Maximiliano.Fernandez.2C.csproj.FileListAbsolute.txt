@@ -1,0 +1,15 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\bin\Debug\Maximiliano.Fernandez.2C.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\bin\Debug\Maximiliano.Fernandez.2C.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\bin\Debug\Maximiliano.Fernandez.2C.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez._2C.Properties.Resources.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez.2C.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez._2C.ControlPublicoForm.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez._2C.CuentaGanadoForm.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C\Maximiliano.Fernandez.2C\obj\Debug\Maximiliano.Fernandez._2C.MostrarDatos.resources
