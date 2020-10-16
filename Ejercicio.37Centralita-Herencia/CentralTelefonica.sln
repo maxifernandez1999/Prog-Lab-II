@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "Centr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5F3CEF48-BA89-4BE4-ABD1-B69962B0C34E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmMenu", "FrmMenu\FrmMenu.csproj", "{55C1D4A5-6DAD-40E7-9ED6-6008D1B57668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F3CEF48-BA89-4BE4-ABD1-B69962B0C34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3CEF48-BA89-4BE4-ABD1-B69962B0C34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3CEF48-BA89-4BE4-ABD1-B69962B0C34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C1D4A5-6DAD-40E7-9ED6-6008D1B57668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C1D4A5-6DAD-40E7-9ED6-6008D1B57668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C1D4A5-6DAD-40E7-9ED6-6008D1B57668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C1D4A5-6DAD-40E7-9ED6-6008D1B57668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

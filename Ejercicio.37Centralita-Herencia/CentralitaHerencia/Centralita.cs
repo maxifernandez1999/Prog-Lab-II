@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 //Centralita:
 //j.Se reemplaza el método Mostrar por la sobrescritura del método ToString.
 //k.AgregarLlamada es privado.Recibe una Llamada y la agrega a la lista de llamadas.
-
-
-
-
+//l.El operador == retornará true si la Centralita contiene la Llamada en su lista genérica.Utilizar
+//sobrecarga == de Llamada.
+//m.El operador + invocará al método AgregarLlamada sólo si la llamada no está registrada en la
+//Centralita (utilizar la sobrecarga del operador == de Centralita).
 namespace CentralitaHerencia
 {
     public class Centralita
     {
-        List<Llamada> listaDeLlamadas;
-        private string razonSocial;
+        private List<Llamada> listaDeLlamadas;
+        protected string razonSocial;
 
-        public string Mostrar()
+        public override string ToString()
         {
             StringBuilder str = new StringBuilder();
             str.AppendFormat($"razon social: {this.razonSocial}\nGanancia total: {this.GananciaPorTotal}\nGanancia por llamados locales: {this.GananciaPorLocal}\nGanancia por llamados provinciales: {this.GananciaPorProvincial}\n");
             foreach (Llamada llamadas in listaDeLlamadas)
             {
-                str.AppendFormat($"Duracion: {llamadas.Duracion}\nNumero de origen {llamadas.NroOrigen}\nNumero de destino {llamadas.NroDestino}\n");
+                str.AppendFormat($"\nDatos: {llamadas.ToString()}\n");
             }
             return str.ToString();
         }
@@ -35,8 +35,7 @@ namespace CentralitaHerencia
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
-        public Centralita(string nombreEmpresa)
-            :this()
+        public Centralita(string nombreEmpresa) :this()
         {
             this.razonSocial = nombreEmpresa;
         }
@@ -130,10 +129,7 @@ namespace CentralitaHerencia
         {
             Llamadas.Sort(Llamada.OrdenarPorDuracion);
         }
-        public override string ToString()
-        {
-            return Mostrar();
-        }
+        
         #endregion
 
         #region SOBRECARGA OPERADORES
@@ -160,10 +156,10 @@ namespace CentralitaHerencia
         //Centralita (utilizar la sobrecarga del operador == de Centralita).
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
-            if (c == nuevaLlamada)
+            if (!(c == nuevaLlamada))
             {
                 c.AgregarLlamada(nuevaLlamada);
-                return c; //?
+                return c; 
             }
             return c;
         }

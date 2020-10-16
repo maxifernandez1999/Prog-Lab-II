@@ -28,7 +28,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"*ES UN CLIENTE");
-            if (!(this.Nombre == ""))
+            if (!(this.Nombre == ""))//base.Mostrar
             {
                 sb.AppendLine($"Nombre: {this.Nombre}");
             }

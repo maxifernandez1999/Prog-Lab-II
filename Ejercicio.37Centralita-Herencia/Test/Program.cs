@@ -23,21 +23,12 @@ namespace Test
             //Console.WriteLine(c.Mostrar(c));
             c = c + l2;
             //Console.WriteLine(c.Mostrar());
-            Console.WriteLine();
-            if(l1 == l3)
-            {
-                Console.WriteLine("Son iguales");
-            }else
-            {
-                Console.WriteLine("SOn distintas");
-            }
-            Console.WriteLine();
             c = c + l3;
             //Console.WriteLine(c.Mostrar());
             c = c + l4;
             //Console.WriteLine(c.Mostrar());
             c.OrdenarLlamadas();
-            Console.WriteLine(c.Mostrar());
+            Console.WriteLine(c.ToString());
             Console.ReadKey();
         }
     }

@@ -1,0 +1,14 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\bin\Debug\CentralitaHerencia.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.FrmLlamador.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.FrmMenu.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.pdb

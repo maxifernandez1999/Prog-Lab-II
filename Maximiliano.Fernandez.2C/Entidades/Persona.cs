@@ -52,7 +52,7 @@ namespace Entidades
         }
         public static explicit operator string(Persona persona)
         {
-            return (string)persona;
+            return persona.Mostrar();
         }
         public abstract bool Validar();
 

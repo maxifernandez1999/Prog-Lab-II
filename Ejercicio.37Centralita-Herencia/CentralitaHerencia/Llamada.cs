@@ -65,6 +65,10 @@ namespace CentralitaHerencia
             str.AppendFormat($"Duracion: {this.Duracion}\nNumero de destino: {this.NroDestino}\nNumero de origen: {this.NroOrigen}\nTipo de llamada: {this.tipoLlamada}");
             return str.ToString();
         }
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
         public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
             int retorno = 0;

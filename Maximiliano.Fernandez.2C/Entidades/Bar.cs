@@ -95,7 +95,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             foreach (Empleado em in empleados)
             {
-                sb.AppendLine($"{em.ToString()}");
+                sb.AppendLine($"{em.ToString()}");//explicit string
             }
             foreach (Gente g in gente)
             {

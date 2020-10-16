@@ -17,7 +17,7 @@ namespace CentralitaHerencia
 
         
         #region CONSTRUCTORES
-        public Provincial(string origen, Franja miFranja, float duracion, string destino) ////
+        public Provincial(string origen, Franja miFranja, float duracion, string destino)
             : base(duracion, origen, destino)
         {
             this.franjaHoraria = miFranja;
@@ -78,7 +78,7 @@ namespace CentralitaHerencia
         protected override string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.AppendFormat($"{base.Mostrar()}\nCosto: {this.CostoLlamada}Franja horaria: {franjaHoraria}\n");
+            str.AppendFormat($"{base.Mostrar()}\nCosto: {this.CostoLlamada}\nFranja horaria: {franjaHoraria}\n");
             return str.ToString();
         }
         #endregion

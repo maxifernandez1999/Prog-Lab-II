@@ -39,7 +39,7 @@ namespace Entidades
         protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"*ES UN EMPLEADO");
+            sb.AppendLine($"*ES UN EMPLEADO");//base.Mostrar()
             sb.AppendLine($"Nombre: {this.Nombre}");
             sb.AppendLine($"Edad: {this.Edad}");
             if (this.dni != -1)

@@ -41,7 +41,7 @@ namespace Maximiliano.Fernandez._2C
                 short edad;
                 int dni;
                 bool retorno;
-                short flag = 0;
+                  
                 short.TryParse(form.Edad, out edad);
                 int.TryParse(form.Dni, out dni);
                 Empleado empleado = new Empleado(edad, form.Nombre, dni);
