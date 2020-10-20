@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public abstract class Persona
+    public abstract class Persona //clase abstracta
     {
         protected short edad;
         protected string nombre;
@@ -17,7 +17,7 @@ namespace Entidades
             this.nombre = nombre;
         }
 
-        public short Edad
+        public short Edad // propiedad de lectura y escritura
         {
             get
             {
@@ -42,15 +42,15 @@ namespace Entidades
         protected virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            if (!(this.Nombre is null))
+            if (!(this.Nombre is null)) // si el nombre es distinto de null
             {
-                sb.AppendLine($"{this.Nombre}");
+                sb.AppendLine($"Nombre: {this.Nombre}");
             }
-            sb.AppendLine($"{this.Edad}");
+            sb.AppendLine($"Edad: {this.Edad}");
             
             return sb.ToString();
         }
-        public static explicit operator string(Persona persona)
+        public static explicit operator string(Persona persona)//conversor explicit que llama a mostrar()
         {
             return persona.Mostrar();
         }

@@ -156,10 +156,15 @@ namespace CentralitaHerencia
         //Centralita (utilizar la sobrecarga del operador == de Centralita).
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
-            if (!(c == nuevaLlamada))
+            if (c.listaDeLlamadas.Count == 0)
             {
                 c.AgregarLlamada(nuevaLlamada);
-                return c; 
+                return c;
+            }
+            else if (!(c == nuevaLlamada))
+            {
+                c.AgregarLlamada(nuevaLlamada);
+                return c;
             }
             return c;
         }

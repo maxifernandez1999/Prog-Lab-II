@@ -8,41 +8,24 @@ namespace Entidades
 {
     public class Empleado : Persona
     {
-//        a.Herencia de persona, descripta en el diagrama.
-//b.El empleado deberá tener nombre y edad de forma obligatoria.
-//c.Validar chequeará que esta edad sea mayor a 21 años y que su nombre tenga al menos 2
-//caracteres.
-//d.Si un empleado no recibiera el atributo DNI este deberá cargarse con -1. Estos documentos
-//no se deberán mostrar por pantalla en los informes.
-//e.Dos empleados serán iguales si tienen el mismo nombre y edad.
-//f.El método Mostrar deberá indicar que es un EMPLEADO y luego imprimir su información.
 
         private int dni;
         public Empleado(short edad, string nombre)
-            :base(edad,nombre)
+            :this(edad,nombre,-1)
         {
             
         }
         public Empleado(short edad, string nombre, int dni)
-            : this(edad, nombre)
+            : base(edad, nombre)
         {
-            if (dni == 0)
-            {
-                this.dni = -1;
-            }
-            else
-            {
-                this.dni = dni;
-            }
-            
+            this.dni = dni;
+
         }
         protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"*ES UN EMPLEADO");//base.Mostrar()
-            sb.AppendLine($"Nombre: {this.Nombre}");
-            sb.AppendLine($"Edad: {this.Edad}");
-            if (this.dni != -1)
+            sb.AppendLine($"Empleado: \n" + base.Mostrar());//llama a la base del metodo
+            if (this.dni != -1)//si no se ingresa dni no lo imprimo
             {
                 sb.AppendLine($"DNI: {this.dni}");
             }
@@ -53,7 +36,7 @@ namespace Entidades
         {
             return this.Mostrar();
         }
-        public override bool Validar()
+        public override bool Validar()//validacion
         {
             if (this.Edad > 21 && (this.Nombre.Length >= 2))
             {

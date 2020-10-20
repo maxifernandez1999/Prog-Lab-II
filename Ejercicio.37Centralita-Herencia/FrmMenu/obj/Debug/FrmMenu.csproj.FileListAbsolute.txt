@@ -12,3 +12,4 @@ C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Her
 C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
 C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.exe
 C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Ejercicio.37Centralita-Herencia\FrmMenu\obj\Debug\FrmMenu.FrmMostrar.resources

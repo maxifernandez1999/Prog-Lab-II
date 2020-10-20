@@ -19,7 +19,7 @@ namespace Maximiliano.Fernandez._2C
         }
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.DialogResult = DialogResult.OK;
         }
 
         public string Nombre

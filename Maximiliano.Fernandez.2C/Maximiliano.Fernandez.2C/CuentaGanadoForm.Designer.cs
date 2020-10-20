@@ -70,7 +70,7 @@
             this.lbl1.Font = new System.Drawing.Font("Microsoft YaHei", 36F);
             this.lbl1.Location = new System.Drawing.Point(18, 26);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(289, 52);
+            this.lbl1.Size = new System.Drawing.Size(289, 69);
             this.lbl1.TabIndex = 3;
             this.lbl1.Text = "Empleados";
             // 

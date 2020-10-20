@@ -18,7 +18,7 @@ namespace Entidades
     {
         private List<Empleado> empleados;
         private List<Gente> gente;
-        private static Bar singleton;
+        private static Bar singleton; //patron singleton
 
         private Bar()
         {
@@ -27,7 +27,7 @@ namespace Entidades
         }
         public static Bar GetBar()
         {
-            if (Bar.singleton == null)
+            if (Bar.singleton == null) // si es null instancia el Bar
             {
                 singleton = new Bar();
             }
@@ -47,7 +47,14 @@ namespace Entidades
                 return this.gente;
             }
         }
-        public static bool operator +(Bar bar, Empleado empleado)
+
+        /// <summary>
+        /// Operador + que agrega un empleado a la lista si este no pertenece a la misma
+        /// </summary>
+        /// <param name="bar">variable de tipo Bar</param>
+        /// <param name="empleado">Empleado a agregar al Bar</param>
+        /// <returns>true: pudo agregar, false:  no pudo</returns>
+        public static bool operator +(Bar bar, Empleado empleado)//agrego un empleado
         {
             bool validacion = true;
 
@@ -67,6 +74,13 @@ namespace Entidades
             }
             return false;
         }
+
+        /// <summary>
+        /// Operador + que agrega un cliente a la lista si este no pertenece a la misma
+        /// </summary>
+        /// <param name="bar">variable de tipo Bar</param>
+        /// <param name="empleado">cliente a agregar al Bar</param>
+        /// <returns>true: pudo agregar, false:  no pudo</returns>
         public static bool operator +(Bar bar, Gente gente)
         {
             bool validacion = true;
@@ -80,7 +94,8 @@ namespace Entidades
                 }
 
             }
-            if (bar.gente.Count < empleados && gente.Validar() && validacion == true)
+            if (bar.gente.Count < empleados && gente.Validar() && validacion == true)//agrega si por cada empleado hay menos de 10 clientes
+
             {
                 bar.gente.Add(gente);
                 return true;
@@ -90,16 +105,16 @@ namespace Entidades
         }
         
         
-        public override string ToString()
+        public override string ToString()//muestra todos los datos de los empleados del Bar
         {
             StringBuilder sb = new StringBuilder();
             foreach (Empleado em in empleados)
             {
-                sb.AppendLine($"{em.ToString()}");//explicit string
+                sb.AppendLine($"{(string)em}");
             }
             foreach (Gente g in gente)
             {
-                sb.AppendLine($"{g.ToString()}");
+                sb.AppendLine($"{(string)g}");
             }
             
             return sb.ToString();

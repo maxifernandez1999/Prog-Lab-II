@@ -12,100 +12,115 @@ namespace FrmMenu
 {
     public partial class FrmLlamador : Form
     {
-//        Si se presiona btnGenerarLlamada abrir un nuevo formulario como Dialog:
-//i.Si la llamada comienza con #, es Provincial. Si la llamada no comienza con #, se
-//deberá poner el combo cmbFranja en estado deshabilitado.
-//ii.La fuente de txtNroDestino será 16. Este TextBox sólo se podrá cargar mediante el
-//panel numérico.
-//iii.El panel numérico se encontrará dentro de un GroupBox con el título “Panel”.
-//iv.El TextBox situado por debajo de btnLimpiar será el txtNroOrigen.
+        //        Si se presiona btnGenerarLlamada abrir un nuevo formulario como Dialog:
+        //i.Si la llamada comienza con #, es Provincial. Si la llamada no comienza con #, se
+        //deberá poner el combo cmbFranja en estado deshabilitado.
+        //ii.La fuente de txtNroDestino será 16. Este TextBox sólo se podrá cargar mediante el
+        //panel numérico.
+        //iii.El panel numérico se encontrará dentro de un GroupBox con el título “Panel”.
+        //iv.El TextBox situado por debajo de btnLimpiar será el txtNroOrigen.
+
+        
         public FrmLlamador(Centralita c)
         {
             InitializeComponent();
+            
         }
 
         public Centralita c
         {
-            get { return c; }
+            get
+            {
+                return c;
+            }
         }
         string numero = "";
         private void btn1_Click(object sender, EventArgs e)
         {
-            numero = numero + "1";
+            numero = numero + "1 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            numero = numero + "2";
+            numero = numero + "2 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn3_Click(object sender, EventArgs e)
         {
-            numero = numero + "3";
+            numero = numero + "3 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn4_Click(object sender, EventArgs e)
         {
-            numero = numero + "4";
+            numero = numero + "4 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn5_Click(object sender, EventArgs e)
         {
-            numero = numero + "5";
+            numero = numero + "5 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn6_Click(object sender, EventArgs e)
         {
-            numero = numero + "6";
+            numero = numero + "6 ";
             txtNroDestino.Text = numero;
             
         }
 
         private void btn7_Click(object sender, EventArgs e)
         {
-            numero = numero + "7";
+            numero = numero + "7 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn8_Click(object sender, EventArgs e)
         {
-            numero = numero + "8";
+            numero = numero + "8 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn9_Click(object sender, EventArgs e)
         {
-            numero = numero + "9";
+            numero = numero + "9 ";
             txtNroDestino.Text = numero;
         }
 
         private void btnAterisco_Click(object sender, EventArgs e)
         {
-            numero = numero + "*";
+            numero = numero + "* ";
             txtNroDestino.Text = numero;
         }
 
         private void btn0_Click(object sender, EventArgs e)
         {
-            numero = numero + "0";
+            numero = numero + "0 ";
             txtNroDestino.Text = numero;
         }
 
         private void btn1Numeral_Click(object sender, EventArgs e)
         {
-            txtNroDestino.Text = "#";
-            numero = numero + numero;
+            numero = numero + "# ";
+            txtNroDestino.Text = numero;
             
         }
 
         private void txtNroDestino_TextChanged(object sender, EventArgs e)
-        {
-            
+        { 
+            string[] cadena = numero.Split(' ');
+            cmbFranja.Enabled = false;
+            foreach (string str in cadena)
+            {
+                if (str == "#")
+                {
+                    cmbFranja.Enabled = true;
+                    break;
+                }
+            }
         }
 
         private void cmbFranja_SelectedIndexChanged(object sender, EventArgs e)
@@ -120,25 +135,33 @@ namespace FrmMenu
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            Provincial.Franja franjas;
             Random rdm = new Random();
-            if (txtNroDestino.Text == "#")
+            Provincial.Franja franjas;
+            if (cmbFranja.Enabled == true)
             {
                 cmbFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
                 int duracionProvincial = rdm.Next(1, 50);
-                Enum.TryParse<Provincial.Franja>(cmbFranja.SelectedValue.ToString(), out franjas);
-                Provincial l2 = new Provincial("Morón", franjas, duracionProvincial, "Bernal");
-                MessageBox.Show(l2.ToString());
-
+                
+                Enum.TryParse<Provincial.Franja>(cmbFranja.Text, out franjas);
+                Provincial l2 = new Provincial(numero, franjas, duracionProvincial, "Bernal");
+                //central = central + l2;
+                c = c + l2;
             }
             else
             {
-                cmbFranja.Enabled = false;
+                int duracionLocal = rdm.Next(1, 50);
+                double costo = ((float)rdm.NextDouble() * (5.6 - 0.5)) + 0.5;
+                Local l1 = new Local(numero, duracionLocal, "Rosario", (float)costo);
+                c = c + l1;
+                //central = central + l1;
+                //MessageBox.Show(l1.ToString());
             }
-            int duracionLocal = rdm.Next(1, 50);
-            double costo = ((float)rdm.NextDouble() * (5.6 - 0.5)) + 0.5;
-            Local l1 = new Local("Bernal", duracionLocal, "Rosario", (float)costo);
-            MessageBox.Show(l1.ToString());
+            numero = "";
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtNroDestino.Clear();
         }
     }
 }
