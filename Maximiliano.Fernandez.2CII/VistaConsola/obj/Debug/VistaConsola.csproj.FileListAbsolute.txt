@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaConsola\obj\Debug\VistaConsola.pdb

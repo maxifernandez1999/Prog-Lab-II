@@ -1,0 +1,13 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.FormDT.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2CII\VistaForm\obj\Debug\VistaForm.pdb
