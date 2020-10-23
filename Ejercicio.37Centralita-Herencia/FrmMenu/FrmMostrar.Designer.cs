@@ -33,21 +33,22 @@
             // 
             // richTxtBox
             // 
-            this.richTxtBox.Location = new System.Drawing.Point(25, 26);
+            this.richTxtBox.Location = new System.Drawing.Point(12, 12);
             this.richTxtBox.Name = "richTxtBox";
-            this.richTxtBox.Size = new System.Drawing.Size(718, 399);
+            this.richTxtBox.Size = new System.Drawing.Size(325, 96);
             this.richTxtBox.TabIndex = 0;
             this.richTxtBox.Text = "";
-            
             // 
             // FrmMostrar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(755, 450);
+            this.BackColor = System.Drawing.Color.Red;
+            this.ClientSize = new System.Drawing.Size(348, 119);
             this.Controls.Add(this.richTxtBox);
             this.Name = "FrmMostrar";
             this.Text = "FrmMostrar";
+            this.Load += new System.EventHandler(this.FrmMostrar_Load);
             this.ResumeLayout(false);
 
         }

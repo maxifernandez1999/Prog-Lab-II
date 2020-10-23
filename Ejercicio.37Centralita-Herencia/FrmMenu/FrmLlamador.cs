@@ -20,18 +20,19 @@ namespace FrmMenu
         //iii.El panel numérico se encontrará dentro de un GroupBox con el título “Panel”.
         //iv.El TextBox situado por debajo de btnLimpiar será el txtNroOrigen.
 
-        
+        Centralita central;
         public FrmLlamador(Centralita c)
         {
+            central = c;
             InitializeComponent();
             
         }
 
-        public Centralita c
+        public Centralita Central
         {
             get
             {
-                return c;
+                return central;
             }
         }
         string numero = "";
@@ -137,24 +138,25 @@ namespace FrmMenu
         {
             Random rdm = new Random();
             Provincial.Franja franjas;
+            
             if (cmbFranja.Enabled == true)
             {
                 cmbFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
                 int duracionProvincial = rdm.Next(1, 50);
                 
-                Enum.TryParse<Provincial.Franja>(cmbFranja.Text, out franjas);
-                Provincial l2 = new Provincial(numero, franjas, duracionProvincial, "Bernal");
-                //central = central + l2;
-                c = c + l2;
+                Enum.TryParse(cmbFranja.Text, out franjas);
+                Provincial l2 = new Provincial(txtNroOrigen.Text, franjas, duracionProvincial, numero);
+                
+                central = Central + l2;
+                MessageBox.Show("Se ha agregado correctamente");
             }
             else
             {
                 int duracionLocal = rdm.Next(1, 50);
                 double costo = ((float)rdm.NextDouble() * (5.6 - 0.5)) + 0.5;
-                Local l1 = new Local(numero, duracionLocal, "Rosario", (float)costo);
-                c = c + l1;
-                //central = central + l1;
-                //MessageBox.Show(l1.ToString());
+                Local l1 = new Local(txtNroOrigen.Text, duracionLocal, numero, (float)costo);
+                central = Central + l1;
+                MessageBox.Show("Se ha agregado correctamente");
             }
             numero = "";
         }
@@ -162,6 +164,11 @@ namespace FrmMenu
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             txtNroDestino.Clear();
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

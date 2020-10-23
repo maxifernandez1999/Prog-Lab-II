@@ -1,0 +1,13 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\bin\Debug\Test.exe.config
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\bin\Debug\Test.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\bin\Debug\Test.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.FormEmpresa.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.exe
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Test\obj\Debug\Test.pdb

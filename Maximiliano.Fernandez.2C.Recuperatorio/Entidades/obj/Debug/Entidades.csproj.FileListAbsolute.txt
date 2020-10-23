@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\GitHub Repository\Prog-Lab-II\Maximiliano.Fernandez.2C.Recuperatorio\Entidades\obj\Debug\Entidades.pdb

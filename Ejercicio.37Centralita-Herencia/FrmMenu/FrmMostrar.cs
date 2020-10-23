@@ -13,24 +13,11 @@ namespace FrmMenu
     public partial class FrmMostrar : Form
     {
         public Llamada.TipoLlamada tipo;
+        Centralita c;
         public FrmMostrar(Centralita c)
         {
+            this.c = c;
             InitializeComponent();
-            if (tipo == Llamada.TipoLlamada.Local)
-            {
-                richTxtBox.Text = c.GananciaPorLocal.ToString();
-            }
-            else if (tipo == Llamada.TipoLlamada.Provincial)
-            {
-                richTxtBox.Text = c.GananciaPorProvincial.ToString();
-
-            }
-            else if (tipo == Llamada.TipoLlamada.Local && tipo == Llamada.TipoLlamada.Provincial)
-            {
-                richTxtBox.Text = c.GananciaPorTotal.ToString();
-            }
-            
-            
             
         }
         public Llamada.TipoLlamada Tipo
@@ -39,7 +26,27 @@ namespace FrmMenu
             {
                 tipo = value;
             }
+            get
+            {
+                return this.tipo;
+            }
         }
 
+        private void FrmMostrar_Load(object sender, EventArgs e)
+        {
+            if (tipo == Llamada.TipoLlamada.Local)
+            {
+                richTxtBox.Text = "Ganancia por llamadas locales: " + c.GananciaPorLocal.ToString();
+            }
+            else if (tipo == Llamada.TipoLlamada.Provincial)
+            {
+                richTxtBox.Text = "Ganancia por llamadas provinciales: " + c.GananciaPorProvincial.ToString();
+
+            }
+            else if (tipo == Llamada.TipoLlamada.Todas)
+            {
+                richTxtBox.Text = "Ganancia por total de llamadas: " + c.GananciaPorTotal.ToString();
+            }
+        }
     }
 }

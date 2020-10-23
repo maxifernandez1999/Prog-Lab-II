@@ -16,7 +16,6 @@ namespace FrmMenu
         public FrmMenu()
          {
             InitializeComponent();
-            c = new Centralita("nn");
 
         }
 
@@ -28,8 +27,11 @@ namespace FrmMenu
 
         private void btnFactTotal_Click(object sender, EventArgs e)
         {
+
+            //Llamada.TipoLlamada tipo = Llamada.TipoLlamada.Todas;
             FrmMostrar mostrar = new FrmMostrar(c);
             mostrar.Tipo = Llamada.TipoLlamada.Todas;
+
             mostrar.ShowDialog();
         }
 
@@ -45,6 +47,16 @@ namespace FrmMenu
             FrmMostrar mostrar = new FrmMostrar(c);
             mostrar.Tipo = Llamada.TipoLlamada.Provincial;
             mostrar.ShowDialog();
+        }
+
+        private void FrmMenu_Load(object sender, EventArgs e)
+        {
+            c = new Centralita("nn");
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
