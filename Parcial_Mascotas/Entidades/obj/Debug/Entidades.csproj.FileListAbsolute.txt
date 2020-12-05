@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Entidades\obj\Debug\Entidades.pdb

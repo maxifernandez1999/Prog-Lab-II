@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\bin\Debug\View.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\bin\Debug\View.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\bin\Debug\View.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\bin\Debug\Ejercicio.42.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\bin\Debug\Ejercicio.42.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\obj\Debug\View.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\View\obj\Debug\View.pdb

@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\bin\Debug\Clase17.Generics.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\bin\Debug\Clase17.Generics.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\bin\Debug\Clase17.Generics.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\bin\Debug\Logic.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\bin\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\obj\Debug\Clase17.Generics.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\obj\Debug\Clase17.Generics.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\obj\Debug\Clase17.Generics.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\obj\Debug\Clase17.Generics.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase17.Generics\Clase17.Generics\obj\Debug\Clase17.Generics.pdb

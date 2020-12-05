@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\bin\Debug\Consola.C7StringArray.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\bin\Debug\Consola.C7StringArray.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\bin\Debug\Consola.C7StringArray.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\obj\Debug\Consola.C7StringArray.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\obj\Debug\Consola.C7StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\obj\Debug\Consola.C7StringArray.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C7StringArray\Consola.C7StringArray\obj\Debug\Consola.C7StringArray.pdb

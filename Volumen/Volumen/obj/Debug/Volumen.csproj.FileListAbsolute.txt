@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\bin\Debug\Volumen.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\bin\Debug\Volumen.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\bin\Debug\Volumen.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.Form1.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Volumen\Volumen\obj\Debug\Volumen.pdb

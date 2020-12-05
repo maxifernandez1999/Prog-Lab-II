@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\bin\Debug\Archivos.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\obj\Debug\Archivos.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Archivos\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,10 @@
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\bin\Debug\Console.C3Class2.exe.config
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\bin\Debug\Console.C3Class2.exe
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\bin\Debug\Console.C3Class2.pdb
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\obj\Debug\Console.C3Class2.csprojAssemblyReference.cache
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\obj\Debug\Console.C3Class2.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\obj\Debug\Console.C3Class2.csproj.CopyComplete
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\obj\Debug\Console.C3Class2.exe
+C:\Users\Polaco\source\repos\Console.C3Class2\Console.C3Class2\obj\Debug\Console.C3Class2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\bin\Debug\Serializador.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\bin\Debug\Serializador.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\bin\Debug\Serializador.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\obj\Debug\Serializador.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\obj\Debug\Serializador.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\obj\Debug\Serializador.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Serializador\Serializador\obj\Debug\Serializador.pdb

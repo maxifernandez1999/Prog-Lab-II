@@ -1,0 +1,13 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\bin\Debug\Ejercicio.68.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\bin\Debug\Ejercicio.68.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\bin\Debug\Ejercicio.68.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\bin\Debug\Logic.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\bin\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio._68.Form1.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio._68.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.68\Ejercicio.68\obj\Debug\Ejercicio.68.pdb

@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\bin\Debug\Ejercicio.3.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\bin\Debug\Ejercicio.3.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\bin\Debug\Ejercicio.3.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\obj\Debug\Ejercicio.3.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\obj\Debug\Ejercicio.3.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\obj\Debug\Ejercicio.3.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Ejercicio.3\obj\Debug\Ejercicio.3.pdb

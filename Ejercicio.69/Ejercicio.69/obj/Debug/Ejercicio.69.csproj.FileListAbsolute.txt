@@ -1,0 +1,12 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\bin\Debug\Ejercicio.69.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\bin\Debug\Ejercicio.69.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\bin\Debug\Ejercicio.69.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio.69.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio._69.FormMostrar.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio._69.FormPrincipal.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio._69.FrmTestDelegados.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio._69.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio.69.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio.69.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio.69.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.69\Ejercicio.69\obj\Debug\Ejercicio.69.pdb

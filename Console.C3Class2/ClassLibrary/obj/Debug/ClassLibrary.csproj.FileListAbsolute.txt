@@ -1,0 +1,6 @@
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Polaco\source\repos\Console.C3Class2\ClassLibrary\obj\Debug\ClassLibrary.pdb

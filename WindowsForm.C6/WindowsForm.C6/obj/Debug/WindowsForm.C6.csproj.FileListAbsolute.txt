@@ -1,0 +1,11 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\bin\Debug\WindowsForm.C6.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\bin\Debug\WindowsForm.C6.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\bin\Debug\WindowsForm.C6.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.PrincipalForm.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\WindowsForm.C6\WindowsForm.C6\obj\Debug\WindowsForm.C6.MensajeForm.resources

@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\bin\Debug\Ejercicio.27.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\bin\Debug\Ejercicio.27.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\bin\Debug\Ejercicio.27.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\obj\Debug\Ejercicio.27.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\obj\Debug\Ejercicio.27.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\obj\Debug\Ejercicio.27.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicios.ArraysColecciones\Ejercicio.27\obj\Debug\Ejercicio.27.pdb

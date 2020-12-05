@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\bin\Debug\Parcial_Mascotas.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\bin\Debug\Parcial_Mascotas.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\bin\Debug\Parcial_Mascotas.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\obj\Debug\Parcial_Mascotas.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\obj\Debug\Parcial_Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\obj\Debug\Parcial_Mascotas.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\obj\Debug\Parcial_Mascotas.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Parcial_Mascotas\Parcial_Mascotas\obj\Debug\Parcial_Mascotas.pdb

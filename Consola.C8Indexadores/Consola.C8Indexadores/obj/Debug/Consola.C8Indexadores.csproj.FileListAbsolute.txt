@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\bin\Debug\Consola.C8Indexadores.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\bin\Debug\Consola.C8Indexadores.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\bin\Debug\Consola.C8Indexadores.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\obj\Debug\Consola.C8Indexadores.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\obj\Debug\Consola.C8Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\obj\Debug\Consola.C8Indexadores.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Consola.C8Indexadores\Consola.C8Indexadores\obj\Debug\Consola.C8Indexadores.pdb

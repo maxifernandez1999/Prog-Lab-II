@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\bin\Debug\Logic.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\bin\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\obj\Debug\Logic.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Eventos.C24\Logic\obj\Debug\Logic.pdb

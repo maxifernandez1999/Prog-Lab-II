@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\bin\Debug\ParcialJardin.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\bin\Debug\ParcialJardin.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\obj\Debug\ParcialJardin.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\obj\Debug\ParcialJardin.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\obj\Debug\ParcialJardin.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\ParcialJardin\ParcialJardin\obj\Debug\ParcialJardin.pdb

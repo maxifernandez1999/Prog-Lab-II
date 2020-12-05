@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\bin\Debug\Console.C2Class.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\bin\Debug\Console.C2Class.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\bin\Debug\Console.C2Class.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\obj\Debug\Consola.C2Class.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\obj\Debug\Consola.C2Class.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\obj\Debug\Console.C2Class.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C2Class\Console.C2Class\obj\Debug\Console.C2Class.pdb

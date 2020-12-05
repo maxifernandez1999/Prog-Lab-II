@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\bin\Debug\Ejercicio.72.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\bin\Debug\Ejercicio.72.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\bin\Debug\Ejercicio.72.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\obj\Debug\Ejercicio.72.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\obj\Debug\Ejercicio.72.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\obj\Debug\Ejercicio.72.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.72\Ejercicio.72\obj\Debug\Ejercicio.72.pdb

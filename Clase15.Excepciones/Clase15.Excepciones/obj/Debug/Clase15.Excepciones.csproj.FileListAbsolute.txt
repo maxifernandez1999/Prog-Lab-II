@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\bin\Debug\Clase15.Excepciones.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\bin\Debug\Clase15.Excepciones.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\bin\Debug\Clase15.Excepciones.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\obj\Debug\Clase15.Excepciones.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\obj\Debug\Clase15.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\obj\Debug\Clase15.Excepciones.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Clase15.Excepciones\Clase15.Excepciones\obj\Debug\Clase15.Excepciones.pdb

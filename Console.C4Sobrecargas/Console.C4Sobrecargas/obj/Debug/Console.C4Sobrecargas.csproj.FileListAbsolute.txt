@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\bin\Debug\Console.C4Sobrecargas.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\bin\Debug\Console.C4Sobrecargas.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\bin\Debug\Console.C4Sobrecargas.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\bin\Debug\ClassLibrary.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\bin\Debug\ClassLibrary.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\obj\Debug\Console.C4Sobrecargas.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\obj\Debug\Console.C4Sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\obj\Debug\Console.C4Sobrecargas.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\obj\Debug\Console.C4Sobrecargas.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Console.C4Sobrecargas\Console.C4Sobrecargas\obj\Debug\Console.C4Sobrecargas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\bin\Debug\Ejercicio.42.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\bin\Debug\Ejercicio.42.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\obj\Debug\Ejercicio.42.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\obj\Debug\Ejercicio.42.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\obj\Debug\Ejercicio.42.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.42\Ejercicio.42\obj\Debug\Ejercicio.42.pdb

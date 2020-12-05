@@ -1,0 +1,22 @@
+D:\LabII\Clase5 - 0909\Vista\Vista\bin\Debug\Vista.exe.config
+D:\LabII\Clase5 - 0909\Vista\Vista\bin\Debug\Vista.exe
+D:\LabII\Clase5 - 0909\Vista\Vista\bin\Debug\Vista.pdb
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.exe
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.pdb
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.PrincipalForm.resources
+D:\LabII\Clase5 - 0909\Vista\Vista\obj\Debug\Vista.MensajeForm.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\bin\Debug\Vista.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\bin\Debug\Vista.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\bin\Debug\Vista.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.MensajeForm.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.PrincipalForm.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Vista\Vista\obj\Debug\Vista.pdb

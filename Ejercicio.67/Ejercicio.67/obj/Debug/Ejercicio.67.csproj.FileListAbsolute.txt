@@ -1,0 +1,7 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\bin\Debug\Ejercicio.67.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\bin\Debug\Ejercicio.67.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\bin\Debug\Ejercicio.67.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\obj\Debug\Ejercicio.67.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\obj\Debug\Ejercicio.67.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\obj\Debug\Ejercicio.67.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\Ejercicio.67\Ejercicio.67\obj\Debug\Ejercicio.67.pdb

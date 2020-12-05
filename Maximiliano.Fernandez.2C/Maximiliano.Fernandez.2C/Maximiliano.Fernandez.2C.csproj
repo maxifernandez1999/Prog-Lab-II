@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0AD71D08-2C56-4CC2-9B75-3B74683B535E}</ProjectGuid>
+    <ProjectGuid>{9E3D4453-6216-47EE-AAD9-250A41024B76}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Maximiliano.Fernandez._2C</RootNamespace>
     <AssemblyName>Maximiliano.Fernandez.2C</AssemblyName>
@@ -46,34 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ControlPublicoForm.cs">
+    <Compile Include="FormCantina.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ControlPublicoForm.Designer.cs">
-      <DependentUpon>ControlPublicoForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CuentaGanadoForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CuentaGanadoForm.Designer.cs">
-      <DependentUpon>CuentaGanadoForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MostrarDatos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MostrarDatos.Designer.cs">
-      <DependentUpon>MostrarDatos.cs</DependentUpon>
+    <Compile Include="FormCantina.Designer.cs">
+      <DependentUpon>FormCantina.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="ControlPublicoForm.resx">
-      <DependentUpon>ControlPublicoForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CuentaGanadoForm.resx">
-      <DependentUpon>CuentaGanadoForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MostrarDatos.resx">
-      <DependentUpon>MostrarDatos.cs</DependentUpon>
+    <EmbeddedResource Include="FormCantina.resx">
+      <DependentUpon>FormCantina.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -98,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{caeace7f-892d-459d-9e3c-1279405011d3}</Project>
-      <Name>Entidades</Name>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+      <Project>{71763a31-9c32-4aed-b55f-bacb63d70fcb}</Project>
+      <Name>ClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
